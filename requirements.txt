@@ -1,0 +1,16 @@
+streamlit
+ultralytics
+torch
+numpy
+pandas
+opencv-python
+Pillow  
+matplotlib
+seaborn
+scikit-learn
+plotly
+requests
+tqdm
+flask
+gunicorn
+pytest      
